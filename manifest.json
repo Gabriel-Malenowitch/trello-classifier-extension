@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "Trello Classifier",
+    "description": "Classifier exporter csv for trello",
+    "author": "Gabriel Botelho Malenowitch",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
